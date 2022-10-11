@@ -80,8 +80,22 @@
       "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
       "name": "Pick-Parser",
       "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
+      "url": "https://github.com/dragonstar41/Pick-Parser",
       "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "explainable-cnn",
+      "createdAt": "2022-03-14T10:45:00Z",
+      "url": "https://github.com/dragonstar41/explainable-cnn",
+      "description": "Flexible visualization package for generating layer-wise explanations for CNNs.",
       "isFork": false,
       "languages": [
         {
